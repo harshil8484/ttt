@@ -1,0 +1,14 @@
+<svg width="18" height="18" viewBox="0 0 18 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>tl_icon_search</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(816 -300)">
+<g id="tl_icon_search">
+<g id="tl_icon_search">
+<use xlink:href="#path0_fill" transform="translate(-816 300)"/>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_fill" fill-rule="evenodd" d="M 0.762146 7.24026C 0.762146 3.66777 3.66777 0.762146 7.24026 0.762146C 10.812 0.762146 13.7184 3.66777 13.7184 7.24026C 13.7184 10.8124 10.812 13.7184 7.24026 13.7184C 3.66777 13.7184 0.762146 10.8124 0.762146 7.24026ZM 18 17.0576L 12.8087 11.8656C 13.8525 10.6111 14.4805 8.99924 14.4805 7.24024C 14.4805 3.24096 11.2391 0 7.24024 0C 3.2421 0 0 3.24096 0 7.24024C 0 11.238 3.2421 14.4805 7.24024 14.4805C 8.99962 14.4805 10.6111 13.8521 11.866 12.8084L 17.0572 18.0004L 18 17.0576Z"/>
+</defs>
+</svg>

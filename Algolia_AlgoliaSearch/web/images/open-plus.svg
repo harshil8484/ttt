@@ -1,0 +1,12 @@
+<svg width="6" height="6" viewBox="0 0 6 6" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>Category</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(-810 964)">
+<g id="Category">
+<use xlink:href="#path0_fill" transform="translate(809 -967)" fill="#000000" fill-opacity="0.99"/>
+</g>
+</g>
+<defs>
+<path id="path0_fill" d="M 6.68809 6.408L 6.68809 5.592L 4.40809 5.592L 4.40809 3.312L 3.59209 3.312L 3.59209 5.592L 1.31209 5.592L 1.31209 6.408L 3.59209 6.408L 3.59209 8.688L 4.40809 8.688L 4.40809 6.408L 6.68809 6.408Z"/>
+</defs>
+</svg>
